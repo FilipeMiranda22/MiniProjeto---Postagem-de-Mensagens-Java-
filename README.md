@@ -1,1 +1,1 @@
-# MiniProjeto---Postagem-de-Mensagens-Java-
+# MiniProjeto-Postagem_de_Mensagens-Java
