@@ -1,4 +1,4 @@
-# Para executar a minha aplicação o professor deve digitar:
+# Para executar a aplicação:
 # 1) fazer download do arquivo postagem.jar para uma pasta_201911250010
 # Por exemplo
 # java -jar /usr/katyusco/pasta_201911250010/postagem.jar add filipe.miranda@academico.ifpb.edu.br
